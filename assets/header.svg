@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Ning Yang</title>
+  <desc id="desc">A dark technical banner with a teal circuit motif. RTEMS, embedded systems and networking.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101A26"/>
+      <stop offset="1" stop-color="#080D14"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="770" y1="48" x2="1130" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7CE9C6"/>
+      <stop offset="1" stop-color="#335B76"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#A2B8CC" stroke-opacity=".055"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="358" rx="18" fill="url(#background)" stroke="#263442"/>
+  <rect x="740" y="32" width="420" height="296" fill="url(#grid)"/>
+  <path d="M64 62H97" stroke="#7CE9C6" stroke-width="3"/>
+  <text x="112" y="67" fill="#7CE9C6" font-family="Consolas, monospace" font-size="13" letter-spacing="3">YANGN0 / SYSTEMS &amp; SOFTWARE</text>
+  <text x="58" y="178" fill="#F2F6FA" font-family="Segoe UI, Arial, sans-serif" font-size="88" font-weight="650" letter-spacing="-4">Ning Yang</text>
+  <text x="65" y="224" fill="#B4C1CF" font-family="Segoe UI, Arial, sans-serif" font-size="23" letter-spacing=".2">Building closer to the hardware.</text>
+  <text x="65" y="297" fill="#8195AA" font-family="Consolas, monospace" font-size="13" letter-spacing="2">RTEMS</text>
+  <circle cx="132" cy="292" r="2" fill="#7CE9C6"/>
+  <text x="150" y="297" fill="#8195AA" font-family="Consolas, monospace" font-size="13" letter-spacing="2">EMBEDDED SYSTEMS</text>
+  <circle cx="328" cy="292" r="2" fill="#7CE9C6"/>
+  <text x="346" y="297" fill="#8195AA" font-family="Consolas, monospace" font-size="13" letter-spacing="2">NETWORKING</text>
+  <g stroke="url(#accent)" stroke-width="1.5">
+    <rect x="864" y="100" width="148" height="148" rx="14" fill="#0E1923"/>
+    <rect x="882" y="118" width="112" height="112" rx="6" stroke-opacity=".3"/>
+    <path d="M888 100V72H810V48M913 100V48M938 100V64H1066V48M963 100V80H1116M988 100V64"/>
+    <path d="M888 248V280H800V304M913 248V312M938 248V288H1082V312M963 248V320M988 248V270H1120"/>
+    <path d="M864 124H824V144H784M864 149H808M864 174H768M864 199H808V224H776M864 224H838V264H780"/>
+    <path d="M1012 124H1056V96H1136M1012 149H1104M1012 174H1140M1012 199H1056V224H1120M1012 224H1036V248H1160"/>
+  </g>
+  <g fill="#7CE9C6">
+    <circle cx="810" cy="48" r="3"/><circle cx="913" cy="48" r="3"/>
+    <circle cx="1066" cy="48" r="3"/><circle cx="1116" cy="80" r="3"/>
+    <circle cx="784" cy="144" r="3"/><circle cx="768" cy="174" r="3"/>
+    <circle cx="800" cy="304" r="3"/><circle cx="1082" cy="312" r="3"/>
+    <circle cx="1140" cy="174" r="3"/><circle cx="1160" cy="248" r="3"/>
+  </g>
+  <text x="938" y="169" text-anchor="middle" fill="#F2F6FA" font-family="Consolas, monospace" font-size="24" letter-spacing="4">NY</text>
+  <text x="938" y="196" text-anchor="middle" fill="#7CE9C6" font-family="Consolas, monospace" font-size="10" letter-spacing="2">LOW LEVEL</text>
+</svg>
